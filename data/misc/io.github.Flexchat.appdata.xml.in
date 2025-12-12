@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.Flexchat</id>
+  <name>FlexChat</name>
+  <launchable type="desktop-id">io.github.Flexchat.desktop</launchable>
+  <developer_name>FlexChat</developer_name>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <summary>IRC Client</summary>
+  <description>
+    <p>FlexChat is an easy to use yet extensible IRC Client. It allows you to securely join multiple networks and talk to users privately or in channels using a customizable interface. You can even transfer files.</p>
+    <p>FlexChat supports features such as: DCC, SASL, proxies, alerts, logging, and scripting.</p>
+  </description>
+  <url type="homepage">http://hexchat.github.io</url>
+  <url type="bugtracker">https://github.com/hexchat/hexchat</url>
+  <url type="help">https://hexchat.readthedocs.io/en/latest/</url>
+</component>

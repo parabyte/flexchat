@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=FlexChat
+GenericName=IRC Client
+Comment=Chat with other people online
+Keywords=IM;Chat;
+Exec=@exec_command@
+Icon=io.github.Flexchat
+Terminal=false
+Type=Application
+Categories=Network;IRCClient;
+StartupNotify=true
+MimeType=x-scheme-handler/irc;x-scheme-handler/ircs;
+Actions=SafeMode;
+
+[Desktop Action SafeMode]
+Name=Open Safe Mode
+Exec=flexchat --no-auto
